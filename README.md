@@ -4,6 +4,4 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marigoldwu" alt="Benyu Wu's GitHub Stats" height="80">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marigoldwu" alt="Most Used Languages" height="80">
+<img src="https://github-readme-stats.vercel.app/api?username=Marigoldwu" alt="Benyu Wu's GitHub Stats" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marigoldwu" alt="Most Used Languages" height="150">
