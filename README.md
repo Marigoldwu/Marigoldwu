@@ -1,6 +1,8 @@
 <center><h2>👋 Hi! I'm Bneyu Wu.</h2></center> 
 
-### Welcome to my GitHub page!
+<center><h3>Welcome to my GitHub page!</h3></center>
+
+<center> <a href="https://www.marigold.website" target="_blank">[Homepage]</a> | <a href="https://www.marigold.website" target="_blank">[Homepage]</a> </center>
 
 - 🔭 I’m pursuing my master's degree in Computer Science at CUMT!
 - 🌱 My current research interests include Deep Graph Clustering and Graph Neural Networks.
