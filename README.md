@@ -1,4 +1,4 @@
-<div style="text-align: center"><h2>👋 Hi! I'm Bneyu Wu.</h2></div> 
+<center><h2>👋 Hi! I'm Bneyu Wu.</h2></center> 
 
 ### Welcome to my GitHub page!
 
