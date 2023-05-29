@@ -8,13 +8,18 @@
     </a>
 </p>
 
-- 🔭 I’m pursuing my master's degree in Computer Science at CUMT!
-- 🌱 My current research interests include Deep Graph Clustering and Graph Neural Networks.
-- 
+<div>
+    <div style="display: inline-block;width: 40%">
+        <li>🔭 I’m pursuing my master's degree in Computer Science at CUMT!</li>
+        <li>🌱 My current research interests include Deep Graph Clustering and Graph Neural Networks.</li>
+    </div>
+    <div style="display: inline-block;width: 50%">
+        <img align="right" src="https://stats.justsong.cn/api/csdn?id=weixin_46334596&theme=radical" alt="Benyu Wu's CSDN Stats"/>
+    </div>
+</div>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Marigoldwu&theme=buefy&show_icons=true" alt="Benyu Wu's GitHub Stats" height="120"/>
-    <img src="https://stats.justsong.cn/api/csdn?id=weixin_46334596&theme=buefy" alt="Benyu Wu's CSDN Stats" height="120"/>
 </p>
 
  
