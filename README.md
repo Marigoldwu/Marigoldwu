@@ -10,17 +10,19 @@
     </a>
 </p>
 
-<div>
-    <p style="width: 49%;">
+<div style="display: flex; align-items: flex-start;">
+    <ul style="margin-right: 20px;">
         <li>🔭 I’m pursuing my master's degree in Computer Science at CUMT!</li>
         <li>🌱 My current research interests include Deep Graph Clustering and Graph Neural Networks.</li>
-    </p>
-    <p style="width: 50%;">
-        <img align="center" src="https://stats.justsong.cn/api/csdn?id=weixin_46334596&theme=radical" alt="Benyu Wu's CSDN Stats"/>
-    </p>
+    </ul>
+    <img src="https://stats.justsong.cn/api/csdn?id=weixin_46334596&theme=radical" alt="Benyu Wu's CSDN Stats"/>
 </div>
 
-![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" height=400>
+</p>
+
+
 
  
 
