@@ -13,8 +13,8 @@
 - 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marigoldwu&theme=buefy&show_icons=true" alt="Benyu Wu's GitHub Stats" height="150" />
-    <img src="https://stats.justsong.cn/api/csdn?id=weixin_46334596&theme=radical" alt="Benyu Wu's CSDN Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Marigoldwu&theme=buefy&show_icons=true" alt="Benyu Wu's GitHub Stats" />
+    <img src="https://stats.justsong.cn/api/csdn?id=weixin_46334596&theme=radical" alt="Benyu Wu's CSDN Stats" />
 </p>
 
  
