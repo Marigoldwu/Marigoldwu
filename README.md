@@ -2,7 +2,11 @@
 
 <h3><p align="center">Welcome to my GitHub page!</p></h3>
 
-<p align="center"> [<a href="https://www.marigold.website" target="_blank">Homepage</a>] | [<a href="https://www.marigold.website" target="_blank">Homepage</a>] </p>
+<p align="center"> 
+    <a href="https://www.marigold.website">
+        <img src="https://img.shields.io/badge/Homepage-Marigold-brightgreen" alt="Marigold">
+    </a>
+</p>
 
 - 🔭 I’m pursuing my master's degree in Computer Science at CUMT!
 - 🌱 My current research interests include Deep Graph Clustering and Graph Neural Networks.
