@@ -13,7 +13,7 @@
 </p>
 
 
-<p align="center">🔭 I’m pursuing my master's degree in Computer Science at CUMT!</p>
+<p align="center">🔭 I’m pursuing my doctor's degree in Software Engineering at SDU!</p>
 <p align="center">🌱 My current research interests include Deep Graph Clustering and Graph Neural Networks.</p>
 
 <h3>
