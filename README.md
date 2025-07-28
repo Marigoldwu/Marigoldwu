@@ -5,8 +5,6 @@
     <a href="https://marigoldwu.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Homepage-Benyu Wu-brightgreen" alt="Marigold">
     </a>
-    <a href="https://www.marigold.website" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-Marigold-brightgreen" alt="Marigold">
     </a> <a href="https://blog.csdn.net/weixin_46334596?type=blog" target="_blank">
         <img src="https://img.shields.io/badge/CSDN-%E5%B0%8F%E5%90%B4%E4%B8%8D%E4%BC%9A%E6%95%B2%E4%BB%A3%E7%A0%81%E5%90%A7-red" alt="CSDN">
     </a>
